@@ -9,4 +9,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## About this project
-a simple todo list app made by with react. I used tailwindcss to style.
+A simple to-do list app made by react. I used tailwindcss to style.
